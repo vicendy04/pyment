@@ -1,6 +1,7 @@
 # My project
 app/__pycache__
 .ruff_cache/
+example/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
